@@ -1,0 +1,19 @@
+{
+  "name": "iww-myfirstbot",
+  "version": "1.0.0",
+  "description": "For training purposes",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node index.js"
+  },
+  "author": "Steve Lievens",
+  "license": "ISC",
+  "dependencies": {
+    "body-parser": "^1.17.1",
+    "crypto": "0.0.3",
+    "express": "^4.15.2",
+    "request": "^2.81.0",
+    "request-json": "^0.6.1"
+  }
+}

@@ -1,0 +1,6 @@
+---
+applications:
+- name: iww-dev-course-ro
+  memory: 128M
+  host: iww-dev-course-ro
+  domain: mybluemix.net
